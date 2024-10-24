@@ -1,16 +1,21 @@
-### Hi there 👋
+# ¡Hola! Soy DendroIDE Code👋
 
-<!--
-**DendroIDE/DendroIDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí
+Soy un desarrollador apasionado por crear soluciones innovadoras utilizando tecnologías como .NET, C#, Oracle y más. Trabajo en proyectos que abarcan desde el desarrollo de APIs REST hasta la integración de servicios y la creación de aplicaciones móviles.
 
-Here are some ideas to get you started:
+### Tecnologías y Herramientas
+- **Lenguajes**: C#, Python, SQL, JavaScript
+- **Bases de datos**: Oracle, SQL Server, MySQL
+- **Frameworks**: .NET Core, ASP.NET, Entity Framework
+- **Herramientas**: Git, GitHub, GitLab, Visual Studio, Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos Destacados
+- **APP004_PagingJetpackCompose**: Implementación de Jetpack Compose con paginación para aplicaciones Android.
+- **MegakonsMovil**: Aplicación móvil con soporte a múltiples cuentas y funciones empresariales.
+- **Cartera y KPIs de Ventas**: Módulo diseñado para gestionar la cartera de clientes y analizar indicadores clave de ventas.
+
+### Conectemos
+- **GitHub**: [DendroIDE](https://github.com/DendroIDE)
+- **LinkedIn**: [Mi perfil](https://www.linkedin.com/in/dendroide/)
+
+¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar y aprender nuevas tecnologías.
