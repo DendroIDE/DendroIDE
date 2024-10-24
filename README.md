@@ -15,7 +15,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando tecn
 - **Cartera y KPIs de Ventas**: Módulo diseñado para gestionar la cartera de clientes y analizar indicadores clave de ventas.
 
 ### Conectemos
-- **GitHub**: [DendroIDE](https://github.com/DendroIDE)
-- **LinkedIn**: [Mi perfil](https://www.linkedin.com/in/dendroide/)
+- **GitHub**: [DendroIDE Code](https://github.com/DendroIDE)
+- **LinkedIn**: [Dennis Leandro Muñoz Muñoz](https://www.linkedin.com/in/dendroide/)
 
 ¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar y aprender nuevas tecnologías.
